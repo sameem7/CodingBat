@@ -1,3 +1,4 @@
 # CodingBat
-Solution to CodingBat python problems
-This contains the solutions to some of the python problems found on CodingBat
+CodingBat python solutions
+
+This contains the solutions to some of the tricky python problems from CodingBat
